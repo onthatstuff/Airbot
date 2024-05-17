@@ -1,0 +1,18 @@
+{
+  "name": "app",
+  "productName": "Airbot App",
+  "version": "1.0.0",
+  "description": "Software integrato all'interno del progetto \"AIRBOT\" presentato ai campionati di robotica italiani.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Luigi Esposito",
+  "license": "MIT",
+  "dependencies": {
+    "app": "^0.1.0",
+    "electron": "^30.0.3",
+    "jQuery": "^1.7.4",
+    "toastify-js": "^1.12.0"
+  }
+}
